@@ -6,7 +6,7 @@
 
 Project build during Next Level Week from Rocketseat.
 
-Take a look [here]()
+Take a look [here](https://vivianemartini.github.io/nlw-eSports-explorer-desafio/)
 
 ## 🛠️ Techonologies
 
