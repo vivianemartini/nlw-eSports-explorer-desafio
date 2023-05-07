@@ -24,5 +24,5 @@ Take a look [here](https://vivianemartini.github.io/nlw-eSports-explorer-desafio
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
-- Thanks Codelandia
+- Thanks Rocketseat
 
